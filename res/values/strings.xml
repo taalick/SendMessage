@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SendMessage</string>
+    <string name="action_settings">Settings</string>
+    <string name="selectPathToSave">Выберите путь</string>
+    <string name="selectContactToSend">Выберите контакт</string>
+    <string name="whoReceive">Кому отправить</string>
+    <string name="whereToSave">Куда сохранить</string>
+    <string name="microphone">Микрафон</string>
+    <string name="camera">Фотокамера</string>
+    <string name="videocamera">Видеокамера</string>
+    
+
+</resources>

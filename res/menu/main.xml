@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sendmessage.MainActivity" >
+
+    <item
+        android:icon="@drawable/microphone"
+        android:id="@+id/microphone"
+        android:orderInCategory="1"
+        android:title="@string/microphone"
+        app:showAsAction="always"/>
+     <item
+        android:icon="@drawable/camera"
+        android:id="@+id/camera"
+        android:orderInCategory="2"
+        android:title="@string/camera"
+        app:showAsAction="always"/>
+      <item
+        android:icon="@drawable/videocamera"
+        android:id="@+id/videocamera"
+        android:orderInCategory="3"
+        android:title="@string/videocamera"
+        app:showAsAction="always"/>      
+
+</menu>
